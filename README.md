@@ -71,7 +71,7 @@ data-warehouse-project/
 │
 ├── docs/                               # Project documentation and architecture details
 │   ├── data_architecture.png           # png file shows the project's architecture
-│   ├── Gold_Layer_Data_Catalog.pdf     # Catalog of datasets, including field descriptions and metadata
+│   ├── Data_Catalog.md     # Catalog of datasets, including field descriptions and metadata
 │   ├── data_flow.png                   # Draw.io file for the data flow diagram
 │   ├── data_models.png                 # Draw.io file for data models (star schema)
 │   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
